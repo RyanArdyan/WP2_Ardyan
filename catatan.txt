@@ -1,19 +1,3 @@
 Boleh dihapus:
-Aku akan buat database dengan nama yg sama dengan nama project.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ou tidak perlu kirim data. atur controller dulu
